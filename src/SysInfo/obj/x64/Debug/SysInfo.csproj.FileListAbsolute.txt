@@ -1,0 +1,6 @@
+J:\Repository\work\ee-win_hana\src\SysInfo\bin\x64\Debug\Penta.EeWin.SysInfo.dll
+J:\Repository\work\ee-win_hana\src\SysInfo\bin\x64\Debug\Penta.EeWin.SysInfo.pdb
+J:\Repository\work\ee-win_hana\src\SysInfo\obj\x64\Debug\SysInfo.csproj.AssemblyReference.cache
+J:\Repository\work\ee-win_hana\src\SysInfo\obj\x64\Debug\SysInfo.csproj.CoreCompileInputs.cache
+J:\Repository\work\ee-win_hana\src\SysInfo\obj\x64\Debug\Penta.EeWin.SysInfo.dll
+J:\Repository\work\ee-win_hana\src\SysInfo\obj\x64\Debug\Penta.EeWin.SysInfo.pdb

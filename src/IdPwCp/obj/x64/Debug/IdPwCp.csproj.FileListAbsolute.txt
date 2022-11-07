@@ -1,0 +1,13 @@
+J:\Repository\work\ee-win_hana\src\IdPwCp\obj\x64\Debug\IdPwCp.csproj.AssemblyReference.cache
+J:\Repository\work\ee-win_hana\src\IdPwCp\obj\x64\Debug\IdPwCp.csproj.CoreCompileInputs.cache
+J:\Repository\work\ee-win_hana\src\IdPwCp\obj\x64\Debug\Penta.EeWin.Cp.IdPwCp.Properties.Resources.resources
+J:\Repository\work\ee-win_hana\src\IdPwCp\obj\x64\Debug\IdPwCp.csproj.GenerateResource.cache
+J:\Repository\work\ee-win_hana\src\IdPwCp\bin\x64\Debug\Penta.EeWin.Cp.IdPwCp.dll
+J:\Repository\work\ee-win_hana\src\IdPwCp\bin\x64\Debug\Penta.EeWin.Cp.IdPwCp.pdb
+J:\Repository\work\ee-win_hana\src\IdPwCp\bin\x64\Debug\Penta.EeWin.Cp.Base.dll
+J:\Repository\work\ee-win_hana\src\IdPwCp\bin\x64\Debug\Penta.EeWin.SysInfo.dll
+J:\Repository\work\ee-win_hana\src\IdPwCp\bin\x64\Debug\Penta.EeWin.Cp.Base.pdb
+J:\Repository\work\ee-win_hana\src\IdPwCp\bin\x64\Debug\Penta.EeWin.SysInfo.pdb
+J:\Repository\work\ee-win_hana\src\IdPwCp\obj\x64\Debug\IdPwCp.csproj.CopyComplete
+J:\Repository\work\ee-win_hana\src\IdPwCp\obj\x64\Debug\Penta.EeWin.Cp.IdPwCp.dll
+J:\Repository\work\ee-win_hana\src\IdPwCp\obj\x64\Debug\Penta.EeWin.Cp.IdPwCp.pdb

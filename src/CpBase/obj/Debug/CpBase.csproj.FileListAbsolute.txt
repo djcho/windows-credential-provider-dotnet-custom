@@ -1,0 +1,8 @@
+J:\Repository\work\ee-win_hana\src\CpBase\obj\Debug\CpBase.csproj.AssemblyReference.cache
+J:\Repository\work\ee-win_hana\src\CpBase\obj\Debug\Penta.EeWin.CpBase.Properties.Resources.resources
+J:\Repository\work\ee-win_hana\src\CpBase\obj\Debug\CpBase.csproj.GenerateResource.cache
+J:\Repository\work\ee-win_hana\src\CpBase\obj\Debug\CpBase.csproj.CoreCompileInputs.cache
+J:\Repository\work\ee-win_hana\src\CpBase\bin\Debug\Penta.EeWin.CpBase.dll
+J:\Repository\work\ee-win_hana\src\CpBase\bin\Debug\Penta.EeWin.CpBase.pdb
+J:\Repository\work\ee-win_hana\src\CpBase\obj\Debug\Penta.EeWin.CpBase.dll
+J:\Repository\work\ee-win_hana\src\CpBase\obj\Debug\Penta.EeWin.CpBase.pdb

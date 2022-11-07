@@ -1,0 +1,9 @@
+J:\Repository\work\ee-win_hana\src\CpBase\obj\x64\Debug\CpBase.csproj.AssemblyReference.cache
+J:\Repository\work\ee-win_hana\src\CpBase\obj\x64\Debug\CpBase.csproj.CoreCompileInputs.cache
+J:\Repository\work\ee-win_hana\src\CpBase\bin\x64\Debug\Penta.EeWin.Cp.Base.dll
+J:\Repository\work\ee-win_hana\src\CpBase\bin\x64\Debug\Penta.EeWin.Cp.Base.pdb
+J:\Repository\work\ee-win_hana\src\CpBase\bin\x64\Debug\Penta.EeWin.SysInfo.dll
+J:\Repository\work\ee-win_hana\src\CpBase\bin\x64\Debug\Penta.EeWin.SysInfo.pdb
+J:\Repository\work\ee-win_hana\src\CpBase\obj\x64\Debug\CpBase.csproj.CopyComplete
+J:\Repository\work\ee-win_hana\src\CpBase\obj\x64\Debug\Penta.EeWin.Cp.Base.dll
+J:\Repository\work\ee-win_hana\src\CpBase\obj\x64\Debug\Penta.EeWin.Cp.Base.pdb

@@ -1,0 +1,9 @@
+J:\Repository\work\ee-win_hana\src\ServerApi\obj\x64\Release\ServerApi.csproj.AssemblyReference.cache
+J:\Repository\work\ee-win_hana\src\ServerApi\obj\x64\Release\ServerApi.csproj.CoreCompileInputs.cache
+J:\Repository\work\ee-win_hana\src\ServerApi\bin\x64\Release\Penta.EeWin.ServerApi.dll
+J:\Repository\work\ee-win_hana\src\ServerApi\bin\x64\Release\Penta.EeWin.ServerApi.pdb
+J:\Repository\work\ee-win_hana\src\ServerApi\bin\x64\Release\Penta.EeWin.Common.dll
+J:\Repository\work\ee-win_hana\src\ServerApi\bin\x64\Release\Penta.EeWin.Common.pdb
+J:\Repository\work\ee-win_hana\src\ServerApi\obj\x64\Release\ServerApi.csproj.CopyComplete
+J:\Repository\work\ee-win_hana\src\ServerApi\obj\x64\Release\Penta.EeWin.ServerApi.dll
+J:\Repository\work\ee-win_hana\src\ServerApi\obj\x64\Release\Penta.EeWin.ServerApi.pdb
