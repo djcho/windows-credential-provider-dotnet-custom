@@ -1,6 +1,0 @@
-J:\Repository\work\ee-win_hana\src\Common\bin\x64\Debug\Penta.EeWin.Common.dll
-J:\Repository\work\ee-win_hana\src\Common\bin\x64\Debug\Penta.EeWin.Common.pdb
-J:\Repository\work\ee-win_hana\src\Common\obj\x64\Debug\Common.csproj.AssemblyReference.cache
-J:\Repository\work\ee-win_hana\src\Common\obj\x64\Debug\Common.csproj.CoreCompileInputs.cache
-J:\Repository\work\ee-win_hana\src\Common\obj\x64\Debug\Penta.EeWin.Common.dll
-J:\Repository\work\ee-win_hana\src\Common\obj\x64\Debug\Penta.EeWin.Common.pdb
